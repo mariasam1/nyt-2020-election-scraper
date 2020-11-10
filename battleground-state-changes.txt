@@ -1,6 +1,6 @@
 ----------------------  --------------------------------------------------------------------------------
-Last updated:           2020-11-10 21:36 UTC
-Latest batch received:  2020-11-10 21:35 UTC
+Last updated:           2020-11-10 21:43 UTC
+Latest batch received:  2020-11-10 21:42 UTC
 Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ----------------------  --------------------------------------------------------------------------------
 
@@ -11,8 +11,9 @@ Alaska (EV: 3) Total Votes: (Trump: 108,231, Biden: 56,849)
 2020-11-04 13:28  ---  Trump leading by 35,241 votes  Remaining (est.): 233,531  Change:       0 (n/a)                        Precincts: 201/441  Biden needs 57.55% [57.545%]  Biden recent trend n/a
 ----------------  ---  -----------------------------  -------------------------  -------------------------------------------  ------------------  ----------------------------  -------------------------
 
-Arizona (EV: 11) Total Votes: (Biden: 1,648,642, Trump: 1,633,896)
+Arizona (EV: 11) Total Votes: (Biden: 1,648,643, Trump: 1,633,910)
 ----------------  ---  ------------------------------  ---------------------------  -------------------------------------------  --------------------  ----------------------------  -------------------------
+2020-11-10 21:42  ***  Biden leading by 14,468 votes   Remaining (est.): 48,788     Change:   5,480 (Biden 47.6% / 52.4% Trump)  Precincts: 1481/1489  Trump needs 64.83% [1.253%]   Trump recent trend 60.31%
 2020-11-10 20:19  ---  Biden leading by 14,733 votes   Remaining (est.): 54,268     Change:      15 (Biden  6.7% / 93.3% Trump)  Precincts: 1479/1489  Trump needs 63.57% [-0.008%]  Trump recent trend 56.34%
 2020-11-10 02:25  ---  Biden leading by 14,746 votes   Remaining (est.): 54,283     Change:       0 (n/a)                        Precincts: 1479/1489  Trump needs 63.58% [2.361%]   Trump recent trend 56.32%
 2020-11-10 02:12  ---  Biden leading by 14,746 votes   Remaining (est.): 65,704     Change:   6,397 (Biden 48.9% / 51.1% Trump)  Precincts: 1479/1489  Trump needs 61.22% [1.311%]   Trump recent trend 56.32%
