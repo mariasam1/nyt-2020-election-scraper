@@ -1,11 +1,12 @@
 ----------------------  --------------------------------------------------------------------------------
-Last updated:           2020-11-15 18:45 UTC
-Latest batch received:  2020-11-15 16:27 UTC
+Last updated:           2020-11-15 18:52 UTC
+Latest batch received:  2020-11-15 18:50 UTC
 Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ----------------------  --------------------------------------------------------------------------------
 
-Alaska (EV: 3) Total Votes: (Trump: 173,233, Biden: 138,070)
+Alaska (EV: 3) Total Votes: (Trump: 179,080, Biden: 143,037)
 ----------------  ---  -----------------------------  -------------------------  -------------------------------------------  ------------------  -----------------------------  -------------------------
+2020-11-15 18:50  ***  Trump leading by 36,695 votes  Remaining (est.): 26,483   Change:   4,734 (Trump 56.9% / 43.1% Biden)  Precincts: 441/441  Biden needs 119.28% [11.551%]  Biden recent trend 57.54%
 2020-11-14 02:45  ---  Trump leading by 36,043 votes  Remaining (est.): 31,217   Change:   9,595 (Trump 54.6% / 45.4% Biden)  Precincts: 441/441  Biden needs 107.73% [14.651%]  Biden recent trend 58.97%
 2020-11-13 14:17  ---  Trump leading by 35,163 votes  Remaining (est.): 40,812   Change:  13,161 (Trump 40.3% / 59.7% Biden)  Precincts: 441/441  Biden needs 93.08% [8.135%]    Biden recent trend 62.35%
 2020-11-13 02:33  ---  Trump leading by 37,721 votes  Remaining (est.): 53,973   Change:  25,245 (Trump 36.3% / 63.7% Biden)  Precincts: 441/441  Biden needs 84.94% [6.763%]    Biden recent trend 58.64%
