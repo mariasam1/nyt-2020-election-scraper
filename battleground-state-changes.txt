@@ -1,6 +1,6 @@
 ----------------------  --------------------------------------------------------------------------------
-Last updated:           2020-11-15 14:59 UTC
-Latest batch received:  2020-11-15 01:32 UTC
+Last updated:           2020-11-15 15:17 UTC
+Latest batch received:  2020-11-15 15:16 UTC
 Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ----------------------  --------------------------------------------------------------------------------
 
@@ -336,6 +336,7 @@ Georgia (EV: 16) Total Votes: (Biden: 2,472,154, Trump: 2,458,002)
 
 North Carolina (EV: 15) Total Votes: (Trump: 2,754,822, Biden: 2,681,124)
 ----------------  ---  -----------------------------  -------------------------  ---------------------------------------------  --------------------  ----------------------------------  -------------------------
+2020-11-15 15:16  ***  Trump leading by 73,876 votes  Remaining (est.): 468      Change:   1,706 (Trump 55.2% / 44.8% Biden)    Precincts: 2602/2662  Biden needs 7942.74% [19.017%]      Biden recent trend 48.38%
 2020-11-13 20:58  ---  Trump leading by 73,698 votes  Remaining (est.): 468      Change:       0 (n/a)                          Precincts: 2596/2662  Biden needs 7923.72% [7923.718%]    Biden recent trend 48.57%
 2020-11-13 20:17  ---  Trump leading by 73,698 votes  Remaining (est.): -1,756   Change:   1,389 (Trump 53.5% / 46.5% Biden)    Precincts: 2596/2662  Biden needs 0.00% [0.000%]          Biden recent trend 48.57%
 2020-11-13 19:17  ---  Trump leading by 73,602 votes  Remaining (est.): -367     Change:     -12 (Trump 58.3% / 41.7% Biden)    Precincts: 2594/2662  Biden needs 0.00% [0.000%]          Biden recent trend 48.66%
