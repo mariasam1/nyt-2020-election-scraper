@@ -1,5 +1,5 @@
 ----------------------  --------------------------------------------------------------------------------
-Last updated:           2020-11-23 20:28 UTC
+Last updated:           2020-11-23 20:36 UTC
 Latest batch received:  2020-11-23 20:27 UTC
 Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ----------------------  --------------------------------------------------------------------------------
@@ -486,7 +486,7 @@ Nevada (EV: 6) Total Votes: (Biden: 703,277, Trump: 669,278)
 Pennsylvania (EV: 20) Total Votes: (Biden: 3,456,645, Trump: 3,375,966)
 ----------------  ---  ------------------------------  ---------------------------  ----------------------------------------------  --------------------  ------------------------------  -------------------------
 2020-11-23 20:27  ***  Biden leading by 81,129 votes   Remaining (est.): -90,910    Change:     450 (Biden 100.0% /  0.0% Trump)    Precincts: 8961/9128  Trump needs 0.00% [0.000%]      Trump recent trend 39.20%
-2020-11-23 19:59  ***  Biden leading by 80,679 votes   Remaining (est.): -90,460    Change:     481 (Biden 24.0% / 76.0% Trump)     Precincts: 8961/9128  Trump needs 0.00% [0.000%]      Trump recent trend 39.70%
+2020-11-23 19:59  ---  Biden leading by 80,679 votes   Remaining (est.): -90,460    Change:     481 (Biden 24.0% / 76.0% Trump)     Precincts: 8961/9128  Trump needs 0.00% [0.000%]      Trump recent trend 39.70%
 2020-11-23 18:41  ---  Biden leading by 80,929 votes   Remaining (est.): -89,979    Change:      14 (Biden 28.6% / 71.4% Trump)     Precincts: 8961/9128  Trump needs 0.00% [0.000%]      Trump recent trend 39.20%
 2020-11-23 18:16  ---  Biden leading by 80,935 votes   Remaining (est.): -89,965    Change:     265 (Biden 67.0% / 33.0% Trump)     Precincts: 8961/9128  Trump needs 0.00% [0.000%]      Trump recent trend 39.18%
 2020-11-23 16:44  ---  Biden leading by 80,845 votes   Remaining (est.): -89,700    Change:      12 (Biden 25.0% / 75.0% Trump)     Precincts: 8961/9128  Trump needs 0.00% [0.000%]      Trump recent trend 39.23%
