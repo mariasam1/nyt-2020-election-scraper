@@ -1,12 +1,13 @@
 ----------------------  --------------------------------------------------------------------------------
-Last updated:           2020-11-25 02:00 UTC
-Latest batch received:  2020-11-25 01:59 UTC
+Last updated:           2020-11-25 02:30 UTC
+Latest batch received:  2020-11-25 02:25 UTC
 Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ----------------------  --------------------------------------------------------------------------------
 
-Alaska (EV: 3) Total Votes: (Trump: 189,457, Biden: 153,551)
+Alaska (EV: 3) Total Votes: (Trump: 189,484, Biden: 153,129)
 ----------------  ---  -----------------------------  -------------------------  ---------------------------------------------  ------------------  -----------------------------  -------------------------
-2020-11-25 01:59  ***  Trump leading by 36,355 votes  Remaining (est.): 9,518    Change:    -308 (Trump -22.9% / 122.9% Biden)  Precincts: 423/441  Biden needs 240.98% [-3.949%]  Biden recent trend 48.10%
+2020-11-25 02:25  ***  Trump leading by 36,041 votes  Remaining (est.): 7,204    Change:   2,314 (Trump 43.2% / 56.8% Biden)    Precincts: 441/441  Biden needs 300.15% [59.166%]  Biden recent trend 49.37%
+2020-11-25 01:59  ---  Trump leading by 36,355 votes  Remaining (est.): 9,518    Change:    -308 (Trump -22.9% / 122.9% Biden)  Precincts: 423/441  Biden needs 240.98% [-3.949%]  Biden recent trend 48.10%
 2020-11-24 13:26  ---  Trump leading by 35,906 votes  Remaining (est.): 9,210    Change:       0 (n/a)                          Precincts: 423/441  Biden needs 244.93% [0.000%]   Biden recent trend 48.83%
 2020-11-19 13:22  ---  Trump leading by 35,906 votes  Remaining (est.): 9,210    Change:   7,323 (Trump 52.7% / 47.3% Biden)    Precincts: 407/441  Biden needs 244.93% [87.547%]  Biden recent trend 48.83%
 2020-11-18 17:25  ---  Trump leading by 35,507 votes  Remaining (est.): 16,533   Change:       0 (n/a)                          Precincts: 389/441  Biden needs 157.38% [0.000%]   Biden recent trend 52.96%
