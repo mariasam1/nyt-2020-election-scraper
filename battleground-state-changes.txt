@@ -1,5 +1,5 @@
 ----------------------  --------------------------------------------------------------------------------
-Last updated:           2020-11-28 05:20 UTC
+Last updated:           2020-11-28 05:29 UTC
 Latest batch received:  2020-11-28 05:00 UTC
 Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ----------------------  --------------------------------------------------------------------------------
@@ -490,7 +490,7 @@ Nevada (EV: 6) Total Votes: (Biden: 703,486, Trump: 669,890)
 
 Pennsylvania (EV: 20) Total Votes: (Biden: 3,459,923, Trump: 3,378,263)
 ----------------  ---  ------------------------------  ---------------------------  ----------------------------------------------  --------------------  ------------------------------  -------------------------
-2020-11-28 05:00  ***  Biden leading by 81,660 votes   Remaining (est.): -96,039    Change:       0 (n/a)                           Precincts: 9128/9128  Trump needs 0.00% [0.000%]      Trump recent trend 50.23%
+2020-11-28 05:00  ---  Biden leading by 81,660 votes   Remaining (est.): -96,039    Change:       0 (n/a)                           Precincts: 9128/9128  Trump needs 0.00% [0.000%]      Trump recent trend 50.23%
 2020-11-25 21:59  ---  Biden leading by 81,660 votes   Remaining (est.): -96,039    Change:   2,307 (Biden 73.9% / 26.1% Trump)     Precincts: 8978/9128  Trump needs 0.00% [0.000%]      Trump recent trend 50.23%
 2020-11-25 01:03  ---  Biden leading by 80,555 votes   Remaining (est.): -93,732    Change:      -1 (Biden 50.0% / 50.0% Trump)     Precincts: 8974/9128  Trump needs 0.00% [0.000%]      Trump recent trend 51.84%
 2020-11-25 00:25  ---  Biden leading by 80,555 votes   Remaining (est.): -93,733    Change:  -1,232 (Biden 60.0% / 40.0% Trump)     Precincts: 8974/9128  Trump needs 0.00% [0.000%]      Trump recent trend 40.68%
