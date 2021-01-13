@@ -1,5 +1,5 @@
 ----------------------  --------------------------------------------------------------------------------
-Last updated:           2021-01-13 15:00 UTC
+Last updated:           2021-01-13 15:44 UTC
 Latest batch received:  2021-01-13 14:47 UTC
 Prettier web version:   https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 ----------------------  --------------------------------------------------------------------------------
@@ -132,7 +132,7 @@ Arizona (EV: 11) Total Votes: (Biden: 1,672,143, Trump: 1,661,686)
 
 Georgia (EV: 16) Total Votes: (Biden: 2,473,633, Trump: 2,461,854)
 ----------------  ---  ------------------------------  -------------------------  ------------------------------------------------  --------------------  -------------------------------  -------------------------
-2021-01-13 14:47  ***  Biden leading by 11,779 votes   Remaining (est.): -4,468   Change:     878 (Biden 50.0% / 50.0% Trump)       Precincts: 2655/2655  Trump needs 0.00% [0.000%]       Trump recent trend 37.45%
+2021-01-13 14:47  ---  Biden leading by 11,779 votes   Remaining (est.): -4,468   Change:     878 (Biden 50.0% / 50.0% Trump)       Precincts: 2655/2655  Trump needs 0.00% [0.000%]       Trump recent trend 37.45%
 2021-01-12 22:07  ---  Biden leading by 11,779 votes   Remaining (est.): -3,590   Change:   1,366 (Biden 50.0% / 50.0% Trump)       Precincts: 2655/2655  Trump needs 0.00% [0.000%]       Trump recent trend 37.10%
 2020-12-07 20:22  ---  Biden leading by 11,779 votes   Remaining (est.): -2,224   Change:      -8 (Biden 981.2% / -881.2% Trump)    Precincts: 2655/2655  Trump needs 0.00% [0.000%]       Trump recent trend 36.76%
 2020-12-05 00:26  ---  Biden leading by 11,928 votes   Remaining (est.): -2,232   Change:      -1 (Biden 100.0% / -0.0% Trump)      Precincts: 2655/2655  Trump needs 0.00% [0.000%]       Trump recent trend 36.52%
